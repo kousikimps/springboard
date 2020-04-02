@@ -3,3 +3,4 @@
 2. <20-03-2020> aic-5_3_7-data-wrangling-with-pandas-mini-project - Submitted in Assignment 2 Folder | Assignment 2 Starts from Section I - Q1 line No 14
 3. <21-03-2020> aic-5_4_3-JSON-mini-project' - Submitted in Assignment 3 folder
 4. <30-03-2020> aic-5_6_6-sql-at-scale-with-spark-mini-project - Submitted in Assignment 4 folder
+5. <02-04-2020> aic-5_8_5-data-wrangling-with-spark-mini-project - Submitted in Assignment 5 Folder
