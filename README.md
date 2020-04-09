@@ -5,3 +5,4 @@
 4. <30-03-2020> aic-5_6_6-sql-at-scale-with-spark-mini-project - Submitted in Assignment 4 folder
 5. <02-04-2020> aic-5_8_5-data-wrangling-with-spark-mini-project - Submitted in Assignment 5 Folder
 6. <06-04-2020> 5.2-Capstone Data added
+7. <09-04-2020> 5.2- Capstone Data added - Added Column Pattern NoteBook
