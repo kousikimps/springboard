@@ -9,3 +9,5 @@
 8. <27-04-2020> aic-8_1_3-linear-regression-mini-project and aic-8_1_5-logistic-regression-mini-project -  Linear and Logistic Regression submitted
 9. <14-05-2020> aic-8_2_8_tree-based-algorithms-mini-project - Decision Tree and Random Forest added. Pending Boosting
 10. <28-05-2020> aic-8_2_10_clustering-mini-project - Clustering 
+11. <24-06-2020> 8.5 - capstone - Mobile price range 
+12. <16-07-2020> DeepLearning  - ANN_Video_Game_Price_Prediction
