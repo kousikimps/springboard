@@ -11,3 +11,4 @@
 10. <28-05-2020> aic-8_2_10_clustering-mini-project - Clustering 
 11. <24-06-2020> 8.5 - capstone - Mobile price range 
 12. <16-07-2020> DeepLearning  - ANN_Video_Game_Price_Prediction
+13. <22-07-2020> NLP - Sentiment Analysis from News Articles
