@@ -13,3 +13,4 @@
 12. <16-07-2020> DeepLearning  - ANN_Video_Game_Price_Prediction
 13. <22-07-2020> NLP - Sentiment Analysis from News Articles
 14. <27-06-2020> NLP - News classifier
+15. <12-08-2020> Image Processing - Image classifier
